@@ -23,6 +23,8 @@ I am also an open-source enthusiast
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
+<br />
+<br />
 
 **Languages and Tools:**  
 

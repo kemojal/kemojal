@@ -4,7 +4,7 @@
   <img align="left" alt="Kemo Jallow | Twitter" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/">
-  <img align="left" alt="Kemo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kemo's LinkedIN" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/kemo_jallow/">
   <img align="left" alt="Kemo's Spotify" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-instagram.svg" />

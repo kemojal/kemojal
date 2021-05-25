@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm [Kemo Jallow](https://kemojallow.netlify.app/), a passionate Full Stack mobile and web developer and a freelance software engineer based in Taiwan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate Full Stack mobile and web developer and a freelance software engineer based in Taiwan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <br />
 <br />

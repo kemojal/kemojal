@@ -19,7 +19,7 @@ Hi, I'm [Kemo Jallow](https://kemo.jallow.tech/), a passionate Full Stack mobile
 
 <img align="right" alt="GIF" src="https://github.com/kemojal/kemojal/blob/main/profile.svg" width="500" height="320" />
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask anything, I am happy to help;
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 

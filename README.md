@@ -28,7 +28,7 @@ Hi, I'm [Kemo Jallow](https://kemojallow.netlify.app/), a passionate Full Stack 
 
 - 💬 Ask anything, I am happy to help;
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📝 [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing)
 
 <br />
 <br />

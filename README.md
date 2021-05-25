@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/kemojallow">
-  <img align="left" alt="Kemo Jallow | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kemo Jallow | Twitter" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/">
   <img align="left" alt="Kemo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com//user/kemzjay">
-  <img align="left" alt="Kemo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.instagram.com/kemo_jallow/">
+  <img align="left" alt="Kemo's Spotify" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-instagram.svg" />
 </a>
 
 

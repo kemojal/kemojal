@@ -28,7 +28,7 @@ Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate Full Sta
 
 - 💬 Ask anything, I am happy to help;
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
-- 📝 [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing)
+- 📝 <!--  [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing) -->
 
 <br />
 <br />

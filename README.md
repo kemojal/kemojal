@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Kemo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/kemojallow">
   <img align="left" alt="Kemo Jallow | Twitter" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-twitter.svg" />
@@ -14,7 +14,9 @@
 <br />
 <br />
 
-Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate Full Stack mobile and web developer and a freelance software engineer based in Taiwan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 🚀 Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate Full Stack software engineer based in Taiwan. 
+- 🚀 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+- 🚀 I take great care in the experience, architecture, and code quality of the things I build.
 
 <br />
 <br />
@@ -28,7 +30,9 @@ Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate Full Sta
 
 - 💬 Ask anything, I am happy to help;
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
+- 🌱 And I'm currently focused to delving into Flutter.
 - 📝 <!--  [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing) -->
+- 
 
 <br />
 <br />

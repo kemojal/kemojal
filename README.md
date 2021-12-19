@@ -21,7 +21,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/kemojal/kemojal/blob/main/frame.png" width="500" height="500" />
+<img align="right" alt="GIF" src="https://github.com/kemojal/kemojal/blob/main/frame.png" width="320" height="320" />
 
 
 <br />

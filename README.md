@@ -11,7 +11,6 @@
 </a>
 
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <br />
 <br />
@@ -23,6 +22,11 @@
 
 <br />
 <br />
+
+**Technologist I used
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 <!-- <img align="right" alt="GIF" src="https://github.com/kemojal/kemojal/blob/main/frame.png" width="320" height="320" /> -->
 

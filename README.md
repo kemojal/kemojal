@@ -39,7 +39,7 @@
 
 - 💬 Ask anything, I am happy to help;
 - 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
-- 🌱 And I'm currently focused Using Next.js & delving into Flutter.
+- 🌱 And I'm currently  Using Next.js & delving into Flutter.
 - 📝 <!--  [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing) -->
 
 <!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)-->

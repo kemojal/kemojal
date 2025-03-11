@@ -1,70 +1,55 @@
-### Hi, I'm Kemo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Kemo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/kemojallow">
-  <img align="left" alt="Kemo Jallow | Twitter" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kemo-jallow-379b59103/">
-  <img align="left" alt="Kemo's LinkedIN" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/kemo_jallow/">
-  <img align="left" alt="Kemo's Spotify" width="22px" src="https://github.com/kemojal/kemojal/blob/main/logo-instagram.svg" />
-</a>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kemojallow)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemo-jallow-379b59103/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kemo_jallow/)
 
+---
 
+🚀 **I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a Full Stack Software Engineer based in Taiwan.**  
+I love building elegant, scalable, and high-performance applications that deliver great user experiences.  
 
-<br />
-<br />
+### 🛠️ What I Do:
+- 🔥 **I specialize in:** Full Stack Development, API Design, and Scalable Architectures  
+- 💡 **Passionate about:** Turning ideas into high-quality software  
+- 🎨 **Focus on:** User experience, performance, and clean code  
 
-- 🚀 Hi, I'm [Kemo Jallow](https://kemojallow-one.vercel.app/), a passionate about Full Stack software engineer based in Taiwan. 
-- 🚀 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-- 🚀 I take great care in the experience, architecture, and code quality of the things I build.
+---
 
-<br />
-<br />
+### 🏆 **Tech Stack & Tools:**
+#### 🚀 **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
+#### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+#### ⚙️ **Tools & DevOps**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-<!-- <img align="right" alt="GIF" src="https://github.com/kemojal/kemojal/blob/main/frame.png" width="320" height="320" /> -->
+---
 
+### 📊 **What I'm Currently Working On:**
+- 🚀 **Building SaaS apps** using **Next.js + FastAPI**
+- 🔍 **Exploring AI & automation** for boosting developer productivity
+- 🎥 **Creating content** on software development & tech entrepreneurship
 
-<br />
-<br />
+---
 
+### 📫 **Let's Connect!**
+💬 I'm always open to new opportunities, collaborations, and interesting projects. If you want to discuss ideas, feel free to reach out!  
+📩 **Email:** [kemojallow@example.com](mailto:kemojallow@example.com)  
+🔗 **Website:** [kemojallow-one.vercel.app](https://kemojallow-one.vercel.app/)  
 
-- 💬 Ask anything, I am happy to help;
-- 📫 How to reach me: [@kemo_jallow](https://www.instagram.com/kemo_jallow/);
-- 🌱 And I'm currently  Using Next.js & delving into Flutter.
-- 📝 <!--  [Resume](https://drive.google.com/file/d/1PtAfbG-PzQdzT1tMVAS9hL35DGRVkpOT/view?usp=sharing) -->
-
-<!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)-->
-
-
-<br />
-<br />
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-<br />
-<br />
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-React.js           ██████████████▒░░░░░░░░░  30 % 
-Vue.js             ██████████████▒░░░░░░░░░  30 % 
-React Native       ██████████████▒░░░░░░░░░  30 % 
-Express.js         ██████████████▒░░░░░░░░░  30 % 
-MangoDB.           ██████████████▒░░░░░░░░░  5 % 
-Firebase           █████░░░░░░░░░░░▒░░░░░░░  3 %
-Others             █████░░░░░░░░░░░▒░░░░░░░  2 %  
-```
+🚀 *"Code, create, innovate!"* 🚀

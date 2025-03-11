@@ -60,7 +60,7 @@ I love building elegant, scalable, and high-performance applications that delive
 ### 📫 **Let's Connect!**
 💬 I'm always open to new opportunities, collaborations, and interesting projects. If you want to discuss ideas, feel free to reach out!  
 
-📩 **Email:** [kemojallow@example.com](mailto:kemojallow@example.com)  
+📩 **Email:** [kemojallow@example.com](mailto:kemo3855@yahoo.com.com)  
 🔗 **Website:** [kemojallow-one.vercel.app](https://kemojallow-one.vercel.app/)  
 
 🚀 *"Code, create, innovate!"* 🚀

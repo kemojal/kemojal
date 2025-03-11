@@ -1,8 +1,5 @@
 ## Hi, I'm Kemo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### 🌍 Where to Find Me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kemojallow)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemo-jallow-379b59103/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kemo_jallow/)  
+
 
 ---
 
@@ -73,5 +70,10 @@ I love building elegant, scalable, and high-performance applications that delive
 
 📩 **Email:** [kemojallow@example.com](mailto:kemo3855@yahoo.com.com)  
 🔗 **Website:** [kemojallow-one.vercel.app](https://kemojallow-one.vercel.app/)  
+
+### 🌍 Where to Find Me
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kemojallow)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemo-jallow-379b59103/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kemo_jallow/)  
 
 🚀 *"Code, create, innovate!"* 🚀

@@ -1,5 +1,5 @@
 ## Hi, I'm Kemo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### 🌍 Where to Find Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kemojallow)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemo-jallow-379b59103/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kemo_jallow/)  
@@ -46,9 +46,20 @@ I love building elegant, scalable, and high-performance applications that delive
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
 
 ---
+
+
+### 🚀 Projects
+- [Pitchwise](https://www.pitchwise.se/) -  a collaborative pitch creation platform with Express.js, PostgreSQL, and Next.js, and Rust
+- [Transcribe ai](https://github.com/kemojal/on_track_frontend) - An AI-powered transcription tool using PostgreSQL, Whisper AI, FastAPI, and React, enabling real-time audio/video-to-text conversion
+- [Nafa Wallet](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.  
+
+
+
+
+
 
 ### 📊 **What I'm Currently Working On:**
 - 🚀 **Building SaaS apps** using **Next.js + FastAPI**  

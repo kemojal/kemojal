@@ -57,17 +57,49 @@
 
 💬 I'm always open to new opportunities, collaborations, and interesting projects. If you want to discuss ideas, feel free to reach out!
 
-📩 **Email:** [kemojallow@example.com](mailto:kemo3855@yahoo.com.com)  
-🔗 **Website:** [kemojallow-one.vercel.app](https://kemojallow-one.vercel.app/)
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <div style="display: flex; align-items: center; ">
+    <a href="mailto:kemo3855@yahoo.com.com" target="_blank">
+      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M10%2014l11%20-11%22%20%2F%3E%20%3Cpath%20d%3D%22M21%203l-6.5%2018a.55%20.55%200%200%201%20-1%200l-3.5%20-7l-7%20-3.5a.55%20.55%200%200%201%200%20-1l18%20-6.5%22%20%2F%3E%20%3C%2Fsvg%3E%20"/>
+    </a><a href="mailto:kemo3855@yahoo.com.com">Send me an email 📩</a>
+  </div>
+  
+  <div style="display: flex; align-items: center; gap: 5px; justify-content: center;">
+    <a href="https://kemojallow-one.vercel.app/" target="_blank">
+      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2210%22%3E%3C%2Fcircle%3E%3Cline%20x1%3D%222%22%20y1%3D%2212%22%20x2%3D%2222%22%20y2%3D%2212%22%3E%3C%2Fline%3E%3Cpath%20d%3D%22M12%202a15.3%2015.3%200%200%201%204%2010%2015.3%2015.3%200%200%201-4%2010%2015.3%2015.3%200%200%201-4-10%2015.3%2015.3%200%200%201%204-10z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E"/>
+    </a><a href="https://kemojallow-one.vercel.app/" target="_blank">Visit my website 🔗</a>
+  </div>
+</div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://app.cal.com/event-types/1189274?tabName=setup" target="_blank">
-    <img src="https://img.shields.io/badge/Work_With_Me-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Work With Me"/>
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M11.5%2021h-5.5a2%202%200%200%201%20-2%20-2v-12a2%202%200%200%201%202%20-2h12a2%202%200%200%201%202%202v6%22%20%2F%3E%20%3Cpath%20d%3D%22M16%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M8%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2011h16%22%20%2F%3E%20%3Cpath%20d%3D%22M15%2019l2%202l4%20-4%22%20%2F%3E%20%3C%2Fsvg%3E%20" alt="Work With Me"/>
+    Work with me
   </a>
 </div>
 
-### �� Where to Find Me
+### 🌍 Where to Find Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kemojallow) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemo-jallow-379b59103/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kemo_jallow/)
+<div style="display: flex; align-items: center; gap: 15px; justify-content: center;">
+  <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204l11.733%2016h4.267l-11.733%20-16z%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2020l6.768%20-6.768m2.46%20-2.46l6.772%20-6.772%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    Twitter
+  </a>
+  
+  <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204m0%202a2%202%200%200%201%202%20-2h12a2%202%200%200%201%202%202v12a2%202%200%200%201%20-2%202h-12a2%202%200%200%201%20-2%20-2z%22%20%2F%3E%20%3Cpath%20d%3D%22M8%2011l0%205%22%20%2F%3E%20%3Cpath%20d%3D%22M8%208l0%20.01%22%20%2F%3E%20%3Cpath%20d%3D%22M12%2016l0%20-5%22%20%2F%3E%20%3Cpath%20d%3D%22M16%2016v-3a2%202%200%200%200%20-4%200%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    LinkedIn
+  </a>
+  
+  <a href="https://www.instagram.com/kemo_jallow/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204m0%204a4%204%200%200%201%204%20-4h8a4%204%200%200%201%204%204v8a4%204%200%200%201%20-4%204h-8a4%204%200%200%201%20-4%20-4z%22%20%2F%3E%20%3Cpath%20d%3D%22M12%2012m-3%200a3%203%200%201%200%206%200a3%203%200%201%200%20-6%200%22%20%2F%3E%20%3Cpath%20d%3D%22M16.5%207.5l0%20.01%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    Instagram
+  </a>
+  
+  <a href="https://www.youtube.com/@kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M18.608%2017.75l-3.9%20.268h-.027a13.83%2013.83%200%200%200%20-3.722%20.828l-2.511%20.908a4.111%204.111%200%200%201%20-3.287%20-.216a3.82%203.82%200%200%201%20-1.98%20-2.527l-1.376%20-6.05a3.669%203.669%200%200%201%20.536%20-2.86a3.964%203.964%200%200%201%202.489%20-1.661l11.25%20-2.354c2.137%20-.448%204.247%20.85%204.713%202.9l1.403%206.162a3.677%203.677%200%200%201%20-.697%203.086a4.007%204.007%200%200%201%20-2.89%201.512v.002z%22%20%2F%3E%20%3Cpath%20d%3D%22M9%2010l1.208%205l4.292%20-4z%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    YouTube
+  </a>
+</div>
 
 🚀 _"Code, create, innovate!"_ 🚀

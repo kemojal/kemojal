@@ -21,6 +21,15 @@
 
 ---
 
+### 🚀 Projects
+
+- [Pitchwise](https://www.pitchwise.se/) - a collaborative pitch creation platform with Express.js, PostgreSQL, and Next.js, and Rust
+- [Transcribe ai](https://github.com/kemojal/on_track_frontend) - An AI-powered transcription tool using PostgreSQL, Whisper AI, FastAPI, and React, enabling real-time audio/video-to-text conversion
+- [Nafa Wallet](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
+- [On Track](https://github.com/kemojal/on_track_frontend) - a productivity app built using PostgreSQL, FastAPI, and React.
+- [Fat Fat](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
+- [Kemo Jallow](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
+
 ### 🏆 **Tech Stack & Tools:**
 
 #### 🚀 **Languages & Frameworks**
@@ -36,12 +45,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
-
-### 🚀 Projects
-
-- [Pitchwise](https://www.pitchwise.se/) - a collaborative pitch creation platform with Express.js, PostgreSQL, and Next.js, and Rust
-- [Transcribe ai](https://github.com/kemojal/on_track_frontend) - An AI-powered transcription tool using PostgreSQL, Whisper AI, FastAPI, and React, enabling real-time audio/video-to-text conversion
-- [Nafa Wallet](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
 
 ### 📊 **What I'm Currently Working On:**
 

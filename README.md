@@ -80,47 +80,47 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <div style="display: flex; align-items: center; ">
     <a href="mailto:kemo3855@yahoo.com.com" target="_blank">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M10%2014l11%20-11%22%20%2F%3E%20%3Cpath%20d%3D%22M21%203l-6.5%2018a.55%20.55%200%200%201%20-1%200l-3.5%20-7l-7%20-3.5a.55%20.55%200%200%201%200%20-1l18%20-6.5%22%20%2F%3E%20%3C%2Fsvg%3E%20"/>
+      <img src="https://github.com/kemojal/kemojal/blob/main/assets/send.svg" alt="Send me an email 📩"/>
     </a><a href="mailto:kemo3855@yahoo.com.com">Send me an email 📩</a>
   </div>
   
   <div style="display: flex; align-items: center; gap: 5px; justify-content: center;">
     <a href="https://kemojallow-one.vercel.app/" target="_blank">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2210%22%3E%3C%2Fcircle%3E%3Cline%20x1%3D%222%22%20y1%3D%2212%22%20x2%3D%2222%22%20y2%3D%2212%22%3E%3C%2Fline%3E%3Cpath%20d%3D%22M12%202a15.3%2015.3%200%200%201%204%2010%2015.3%2015.3%200%200%201-4%2010%2015.3%2015.3%200%200%201-4-10%2015.3%2015.3%200%200%201%204-10z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E"/>
+      <img src="https://github.com/kemojal/kemojal/blob/main/assets/link.svg" alt="Visit my website 🔗"/>
     </a><a href="https://kemojallow-one.vercel.app/" target="_blank">Visit my website 🔗</a>
   </div>
 </div>
 
 <div  style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
   <a href="https://app.cal.com/event-types/1189274?tabName=setup" target="_blank">
-    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M11.5%2021h-5.5a2%202%200%200%201%20-2%20-2v-12a2%202%200%200%201%202%20-2h12a2%202%200%200%201%202%202v6%22%20%2F%3E%20%3Cpath%20d%3D%22M16%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M8%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2011h16%22%20%2F%3E%20%3Cpath%20d%3D%22M15%2019l2%202l4%20-4%22%20%2F%3E%20%3C%2Fsvg%3E%20" alt="Work With Me"/>
+    <img src="https://github.com/kemojal/kemojal/blob/main/assets/calendar-week.svg" alt="Work With Me"/>
     Work with me
   </a>
 </div>
 
 ### 🌐 Socials:
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px; border: none;">
       <a href="https://x.com/kemojallow" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="48" height="48" alt="Twitter" />
         <br>Twitter
       </a>
     </td>
-    <td align="center" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px; border: none;">
       <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
         <br>LinkedIn
       </a>
     </td>
-    <td align="center" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px; border: none;">
       <a href="https://www.instagram.com/kemo_jallow/" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="48" height="48" alt="Instagram" />
         <br>Instagram
       </a>
     </td>
-    <td align="center" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px; border: none;">
       <a href="https://www.youtube.com/@kemojallow" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="48" height="48" alt="YouTube" />
         <br>YouTube

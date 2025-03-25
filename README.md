@@ -100,27 +100,27 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 
 ### 🌐 Socials:
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120" style="padding: 10px;">
       <a href="https://x.com/kemojallow" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="48" height="48" alt="Twitter" />
         <br>Twitter
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="padding: 10px;">
       <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
         <br>LinkedIn
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="padding: 10px;">
       <a href="https://www.instagram.com/kemo_jallow/" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="48" height="48" alt="Instagram" />
         <br>Instagram
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="padding: 10px;">
       <a href="https://www.youtube.com/@kemojallow" target="_blank">
         <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="48" height="48" alt="YouTube" />
         <br>YouTube

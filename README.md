@@ -1,7 +1,21 @@
 <img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-dark.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
 <div align="justify">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software Engineer**, <em><strong>Solopreneur</strong></em>, a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
+Hey there 👋
+I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software Engineer**, <em><strong>Solopreneur</strong></em>, a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
+
+<div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
+  <a href="mailto:kemo3855@yahoo.com.com" style="display: inline-block; background-color: #0077B5; color: white; padding: 5px 20px; text-decoration: none; border-radius: 3px; font-weight: bold;">
+    🚀 Hire Me
+  </a>
+  
+  <a href="https://kemojallow-one.vercel.app/" target="_blank" style="display: inline-block; background-color: #333333; color: white; padding: 5px 20px; text-decoration: none; border-radius: 3px; font-weight: bold;">
+    👨‍💻 Check My Portfolio
+  </a>
+</div>
+</div>
 
 ### 🛠️ Technical Skills
 
@@ -101,5 +115,7 @@
     YouTube
   </a>
 </div>
+
+
 
 🚀 _"Code, create, innovate!"_ 🚀

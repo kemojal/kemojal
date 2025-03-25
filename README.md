@@ -28,7 +28,6 @@
 - [Nafa Wallet](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
 - [On Track](https://github.com/kemojal/on_track_frontend) - a productivity app built using PostgreSQL, FastAPI, and React.
 - [Fat Fat](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
-- [Kemo Jallow](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
 
 ### 🏆 **Tech Stack & Tools:**
 
@@ -62,7 +61,7 @@
 🔗 **Website:** [kemojallow-one.vercel.app](https://kemojallow-one.vercel.app/)
 
 <div align="center">
-  <a href="https://kemojallow-one.vercel.app/contact" target="_blank">
+  <a href="https://app.cal.com/event-types/1189274?tabName=setup" target="_blank">
     <img src="https://img.shields.io/badge/Work_With_Me-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Work With Me"/>
   </a>
 </div>

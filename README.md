@@ -49,7 +49,7 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 - 🚀 [Saas platform (backend)](https://github.com/kemojal/LandingApi) - A SaaS platform for creating and managing startups and investors built using Go, PostgreSQL.
 - 🏥 [Opital (backend)](https://github.com/kemojal/clinic_backend) - A hospital management system built using PostgreSQL, Spring Boot.
 
-### 🏆 **Tech Stack & Tools:**
+### 💻 **Tech Stack & Tools:**
 
 #### 🚀 **Languages & Frameworks**
 
@@ -98,32 +98,35 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
   </a>
 </div>
 
-### 🌍 Where to Find Me
+### 🌐 Socials:
 
-# 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura)
-
-<div style="display: flex; align-items: center; justify-content: center; margin: 20px 0;">
-  <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; margin: 0 15px;">
-    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="24" height="24" style="margin-right: 5px;"/>
-    Twitter
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank" style="display: flex; align-items: center; margin: 0 15px;">
-    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="24" height="24" style="margin-right: 5px;"/>
-    LinkedIn
-  </a>
-  
-  <a href="https://www.instagram.com/kemo_jallow/" target="_blank" style="display: flex; align-items: center; margin: 0 15px;">
-    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="24" height="24" style="margin-right: 5px;"/>
-    Instagram
-  </a>
-  
-  <a href="https://www.youtube.com/@kemojallow" target="_blank" style="display: flex; align-items: center; margin: 0 15px;">
-    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="24" height="24" style="margin-right: 5px;"/>
-    YouTube
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://x.com/kemojallow" target="_blank">
+        <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="48" height="48" alt="Twitter" />
+        <br>Twitter
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank">
+        <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
+        <br>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.instagram.com/kemo_jallow/" target="_blank">
+        <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="48" height="48" alt="Instagram" />
+        <br>Instagram
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.youtube.com/@kemojallow" target="_blank">
+        <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="48" height="48" alt="YouTube" />
+        <br>YouTube
+      </a>
+    </td>
+  </tr>
+</table>
 
 🚀 _"Code, create, innovate!"_ 🚀

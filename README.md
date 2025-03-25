@@ -2,7 +2,7 @@
 <div align="justify">
 
 Hey there 👋
-I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software Engineer**, <em><strong>Solopreneur</strong></em>, a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
+I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
 
 <div>
 

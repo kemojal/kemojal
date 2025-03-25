@@ -105,22 +105,22 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura)
 
 <div style="display: flex; align-items: center; gap: 15px; justify-content: center;">
-  <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+  <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="24" height="24"/>
     Twitter
   </a>
   
-  <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+  <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="24" height="24"/>
     LinkedIn
   </a>
   
-  <a href="https://www.instagram.com/kemo_jallow/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+  <a href="https://www.instagram.com/kemo_jallow/" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="24" height="24"/>
     Instagram
   </a>
   
-  <a href="https://www.youtube.com/@kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+  <a href="https://www.youtube.com/@kemojallow" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="24" height="24"/>
     YouTube
   </a>

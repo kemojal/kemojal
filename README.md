@@ -1,4 +1,4 @@
-<img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-light.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
+<img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-yellow.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
 <div align="justify">
 
 Hey there 👋

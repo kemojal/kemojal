@@ -5,12 +5,12 @@
 
 ### 🛠️ Technical Skills
 
-**Programming Languages**: <em>Golang, Python, Node.js, JavaScript, Rust</em>
-**Frameworks/Libraries**: <em>React, Next.js, Go Fibre, Express.js, FastAPI</em>
-**Databases**: <em>PostgreSQL, MySQL, MongoDB, Redis</em>
-**Cloud Platforms**: <em>AWS (EC2, S3), GCP</em>
-**DevOps**: <em>Docker, GitHub Actions</em>
-**Architecture**: <em>Microservices, RESTful APIs, Event-Driven Architecture (Pub/Sub)</em>
+**Programming Languages**: <em>Golang, Python, Node.js, JavaScript, Rust</em>  
+**Frameworks/Libraries**: <em>React, Next.js, Go Fibre, Express.js, FastAPI</em>  
+**Databases**: <em>PostgreSQL, MySQL, MongoDB, Redis</em>  
+**Cloud Platforms**: <em>AWS (EC2, S3), GCP</em>  
+**DevOps**: <em>Docker, GitHub Actions</em>  
+**Architecture**: <em>Microservices, RESTful APIs, Event-Driven Architecture (Pub/Sub)</em>  
 **Other**: Design Patterns, Unit Testing, Integration Testing, Performance Optimization, Data Analysis, Report Writing, Presentation Skills
 
 ### 🛠️ What I Do:

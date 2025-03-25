@@ -1,10 +1,10 @@
-## Hi, I'm Kemo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 <img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-dark.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
 <div align="justify">
----
 
-🚀 I'm [Kemo Jallow](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software Engineer**, <em><strong>Solopreneur</strong></em>, a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software Engineer**, <em><strong>Solopreneur</strong></em>, a <em><strong>Software Engineer</strong></em>, and a <em><strong>mobile developer</strong></em> I love building elegant, scalable, and high-performance applications that deliver great user experiences.
 
 ### 🛠️ Technical Skills
 

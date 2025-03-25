@@ -85,7 +85,7 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
   </div>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div  style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
   <a href="https://app.cal.com/event-types/1189274?tabName=setup" target="_blank">
     <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M11.5%2021h-5.5a2%202%200%200%201%20-2%20-2v-12a2%202%200%200%201%202%20-2h12a2%202%200%200%201%202%202v6%22%20%2F%3E%20%3Cpath%20d%3D%22M16%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M8%203v4%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2011h16%22%20%2F%3E%20%3Cpath%20d%3D%22M15%2019l2%202l4%20-4%22%20%2F%3E%20%3C%2Fsvg%3E%20" alt="Work With Me"/>
     Work with me

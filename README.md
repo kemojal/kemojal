@@ -104,25 +104,24 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura)
 
-
 <div style="display: flex; align-items: center; gap: 15px; justify-content: center;">
   <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204l11.733%2016h4.267l-11.733%20-16z%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2020l6.768%20-6.768m2.46%20-2.46l6.772%20-6.772%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/x.svg" width="24" height="24"/>
     Twitter
   </a>
   
   <a href="https://www.linkedin.com/in/kemo-jallow-379b59103/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204m0%202a2%202%200%200%201%202%20-2h12a2%202%200%200%201%202%202v12a2%202%200%200%201%20-2%202h-12a2%202%200%200%201%20-2%20-2z%22%20%2F%3E%20%3Cpath%20d%3D%22M8%2011l0%205%22%20%2F%3E%20%3Cpath%20d%3D%22M8%208l0%20.01%22%20%2F%3E%20%3Cpath%20d%3D%22M12%2016l0%20-5%22%20%2F%3E%20%3Cpath%20d%3D%22M16%2016v-3a2%202%200%200%200%20-4%200%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/linkedin.svg" width="24" height="24"/>
     LinkedIn
   </a>
   
   <a href="https://www.instagram.com/kemo_jallow/" target="_blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204m0%204a4%204%200%200%201%204%20-4h8a4%204%200%200%201%204%204v8a4%204%200%200%201%20-4%204h-8a4%204%200%200%201%20-4%20-4z%22%20%2F%3E%20%3Cpath%20d%3D%22M12%2012m-3%200a3%203%200%201%200%206%200a3%203%200%201%200%20-6%200%22%20%2F%3E%20%3Cpath%20d%3D%22M16.5%207.5l0%20.01%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/instagram.svg" width="24" height="24"/>
     Instagram
   </a>
   
   <a href="https://www.youtube.com/@kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M18.608%2017.75l-3.9%20.268h-.027a13.83%2013.83%200%200%200%20-3.722%20.828l-2.511%20.908a4.111%204.111%200%200%201%20-3.287%20-.216a3.82%203.82%200%200%201%20-1.98%20-2.527l-1.376%20-6.05a3.669%203.669%200%200%201%20.536%20-2.86a3.964%203.964%200%200%201%202.489%20-1.661l11.25%20-2.354c2.137%20-.448%204.247%20.85%204.713%202.9l1.403%206.162a3.677%203.677%200%200%201%20-.697%203.086a4.007%204.007%200%200%201%20-2.89%201.512v.002z%22%20%2F%3E%20%3Cpath%20d%3D%22M9%2010l1.208%205l4.292%20-4z%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>
+    <img src="https://github.com/kemojal/kemojal/blob/main/assets/socials/youtube1.svg" width="24" height="24"/>
     YouTube
   </a>
 </div>

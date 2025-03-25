@@ -100,6 +100,11 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 
 ### 🌍 Where to Find Me
 
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kibumLaura)
+
+
 <div style="display: flex; align-items: center; gap: 15px; justify-content: center;">
   <a href="https://x.com/kemojallow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
     <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20%3E%20%3Cpath%20d%3D%22M4%204l11.733%2016h4.267l-11.733%20-16z%22%20%2F%3E%20%3Cpath%20d%3D%22M4%2020l6.768%20-6.768m2.46%20-2.46l6.772%20-6.772%22%20%2F%3E%20%3C%2Fsvg%3E%20" width="24" height="24"/>

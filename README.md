@@ -42,9 +42,12 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 - [Nafa Wallet(backend, web, iOS)](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
 - [OnTrack(fullstack)](https://github.com/kemojal/on_track_frontend) - a productivity app built using PostgreSQL, FastAPI, and React.
 - [Fat Fat(fullstack)](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
+- [Editube (fullstack)](https://github.com/kemojal/editube) - A video editing feeback collaborative platform built using PostgreSQL, FastAPI, Next.js, and TypeScript.
 - [Invites(fullstack)](https://github.com/kemojal/invites) - event invites platform built using PostgreSQL, FastAPI, Next.js, and TypeScript.
 - [UninexusHR(fullstack)](https://github.com/kemojal/UninexusHR) - a human resource management system built using PostgreSQL, FastAPI, Next.js, and TypeScript.
 - [Workcafe(backend)](https://github.com/kemojal/workcafe) - Find the best cafe near you to work remotely.
+- [Saas platform (backend)](https://github.com/kemojal/LandingApi) - A SaaS platform for creating and managing startups and investors built using Go, PostgreSQL.
+- [Opital (backend)](https://github.com/kemojal/clinic_backend) - A hospital management system built using PostgreSQL, Spring Boot.
 
 ### 🏆 **Tech Stack & Tools:**
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-dark.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
+<img src="https://github.com/kemojal/kemojal/blob/main/assets/cover-light.png" alt="👋 Hi there! I'm Kemo" title="👋 Hi there! I'm reza"/>
 <div align="justify">
 
 Hey there 👋
@@ -115,7 +115,5 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a **Full Stack Software En
     YouTube
   </a>
 </div>
-
-
 
 🚀 _"Code, create, innovate!"_ 🚀

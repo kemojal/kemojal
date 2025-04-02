@@ -44,7 +44,7 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 ### 🚀 Projects
 
 - 🎯 [Pitchwise(backend, web)](https://www.pitchwise.se/) - a collaborative pitch creation platform with Express.js, PostgreSQL, and Next.js, and Rust
-- 🎙️ [Transcribe ai(backend, web)](https://github.com/kemojal/on_track_frontend) - An AI-powered transcription tool using PostgreSQL, Whisper AI, FastAPI, and React, enabling real-time audio/video-to-text conversion
+- 🎙️ [Transcribe AI] ([frontend](https://github.com/kemojal/transcribe_frontend) | [backend](https://github.com/kemojal/transcribe_ai)) - An AI-powered transcription tool using PostgreSQL, Whisper AI, FastAPI, and React, enabling real-time audio/video-to-text conversion
 - 💰 [Nafa Wallet(backend, web, iOS)](https://github.com/kemojal/fat_fat_latest) - an e-wallet platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.
 - ✅ [OnTrack(fullstack)](https://github.com/kemojal/on_track_frontend) - a productivity app built using PostgreSQL, FastAPI, and React.
 - 👥 [Fat Fat(fullstack)](https://github.com/kemojal/fat_fat_latest) - a social media platform built using PostgreSQL, Rust (Axum), Next.js, and TypeScript.

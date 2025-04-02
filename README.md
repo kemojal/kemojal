@@ -11,8 +11,8 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
     🚀 Hire Me
   </a>
 
-  <a href="https://kemojal.github.io/resume/software_engineer_resume.pdf" target="_blank"/>
-  
+<a href="https://kemojal.github.io/resume/software_engineer_resume.pdf" target="_blank">Download Resume</a>
+
   <a href="https://kemojallow-one.vercel.app/" target="_blank" style="display: inline-block; background-color: #333333; color: white; padding: 5px 20px; text-decoration: none; border-radius: 3px; font-weight: bold;">
     👨‍💻 Check My Portfolio
   </a>

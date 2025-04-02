@@ -7,16 +7,18 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 <div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
+  <div>
   <a href="mailto:kemo3855@yahoo.com.com" style="display: inline-block; background-color: #0077B5; color: white; padding: 8px 24px; text-decoration: none; border-radius: 3px; font-weight: bold;">
     🚀 Hire Me
   </a>
+  </div>
 
   <a href="https://kemojal.github.io/resume/software_engineer_resume.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #2EA043; color: white; padding: 8px 24px; text-decoration: none; border-radius: 3px; font-weight: bold;">
-    📄 Download Resume
+    📄 Resume
   </a>
 
   <a href="https://kemojallow-one.vercel.app/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #333333; color: white; padding: 8px 24px; text-decoration: none; border-radius: 3px; font-weight: bold;">
-    👨‍💻 Check My Portfolio
+    👨‍💻 Portfolio
   </a>
 </div>
 </div>

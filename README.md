@@ -6,7 +6,7 @@ I'm [Kemo](https://portfolio-ten-phi-89.vercel.app/), a <em><strong>Software Eng
 
 <div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
+<div style="display: flex; justify-content: between; gap: 20px; margin-top: 30px;">
   <a href="mailto:kemo3855@yahoo.com.com" style="display: inline-block; background-color: #0077B5; color: white; padding: 5px 20px; text-decoration: none; border-radius: 3px; font-weight: bold;">
     🚀 Hire Me
   </a>
